@@ -29,7 +29,7 @@ const init = async () => {
     
 ## Usage
     ${usage}
-
+        
 ## Contributors
     ${contributors}
     

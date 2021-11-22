@@ -9,7 +9,6 @@
 - I learned a lot about object deconstruction, node.js properties, calling other js docs, and creating specific documents with the filesystm. 
 
 ## Table of Contents (Optional)
-    If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributors](#contributors)
@@ -25,7 +24,7 @@
 ## Usage
 In order to live test the application a pull/fork is required! 
 
-[![ReadMe Generator Demo](./Assets/gif1.gif)
+![ReadMe Generator Demo](./Assets/gif1.gif)
 
 
 ## Contributors
